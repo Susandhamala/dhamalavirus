@@ -1,5 +1,9 @@
 # dhamalavirus
 
+most important kura chai k ho vhane ni when you flash the payload it automatically starts on your computer so to prevent that i have mentioned below but but but when it is flashed and if we want another project to do you have to use the file name flash_nuke.uf2 (this file is for formating or wiping eintire pi pico and make fresh) 
+
+ flash_nuke.uf2 this file is in our list so search for it and simply press bootsel button and connect to a pc and just daragg and dropp the file into it. thats it. 
+
 # DhamalaVirusDucky
 Build a Budget-Friendly but Powerful USB Rubber Ducky Using a Raspberry Pi Pico
 
