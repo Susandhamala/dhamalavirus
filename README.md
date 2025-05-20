@@ -1,4 +1,5 @@
-# dhamalavirus
+# dhamalavirus (rubberducky to estabilish a reverse from window to linux)
+this is completely prohibited to copy and make a unnecessary illegal move and this is only for education purpose and there might be a bug error (if you find those error just tell me and connect me in linkind www.linkedin.com/in/susan-dhamala-534218183 )
 
 most important kura chai k ho vhane ni when you flash the payload it automatically starts on your computer so to prevent that i have mentioned below but but but when it is flashed and if we want another project to do you have to use the file name flash_nuke.uf2 (this file is for formating or wiping eintire pi pico and make fresh) 
 
